@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271658184765",
+    "firebase_url": "https://conatusapp-d09d6.firebaseio.com",
+    "project_id": "conatusapp-d09d6",
+    "storage_bucket": "conatusapp-d09d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271658184765:android:5f67b022e3b76b06b27a54",
+        "android_client_info": {
+          "package_name": "co.snigdha.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271658184765-hqcd0of2684udsfoqvlhiv2kpdajs5fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlflUhTU4wIf0njH-XOOfE9O0yJQVYF8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271658184765-hqcd0of2684udsfoqvlhiv2kpdajs5fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
